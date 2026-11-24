@@ -31,6 +31,22 @@ B.Tech Computer Science undergraduate at **NMAM Institute of Technology, Nitte**
 <table>
   <tr>
     <td width="50%">
+      <h3><a href="https://github.com/an-an-ya2005/hackai-platform">HackAI Platform</a></h3>
+      Hackathon management platform with AI-assisted application review (Gemini), real-time notifications, OAuth login and an admin dashboard.<br><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/an-an-ya2005/career-ai">Career AI</a></h3>
+      AI-powered career platform that scores resumes against ATS criteria, matches users to jobs and analyzes technical skills from GitHub and LeetCode.<br><br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3><a href="https://github.com/an-an-ya2005/ScreenSentry">ScreenSentry</a></h3>
       Smartphone addiction analysis and prediction using EDA and ML (Decision Tree, Random Forest, AdaBoost).<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -43,27 +59,10 @@ B.Tech Computer Science undergraduate at **NMAM Institute of Technology, Nitte**
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/an-an-ya2005/HostelHub">HostelHub</a></h3>
-      Hostel management system with student, room and booking management.<br><br>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    </td>
-    <td width="50%">
       <h3><a href="https://github.com/an-an-ya2005/recipe-book">Recipe Book</a></h3>
       Full-stack MERN recipe app with JWT auth, CRUD and nutrition info.<br><br>
       <img src="https://img.shields.io/badge/MERN-61DAFB?style=flat&logo=react&logoColor=black" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/an-an-ya2005/HealthQueue">HealthQueue</a></h3>
-      Appointment system for booking, rescheduling and cancelling doctor visits.<br><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/an-an-ya2005/Simple-Port-Scanner">Port Scanner</a></h3>
-      Multi-threaded TCP/UDP scanner with banner grabbing and JSON/CSV output.<br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    </td>
+  
   </tr>
 </table>
