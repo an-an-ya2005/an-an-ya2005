@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**an-an-ya2005/an-an-ya2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a23,100:4b3fb5&height=200&section=header&text=Hey,%20I'm%20Ananya&fontSize=42&fontColor=c7c9ff&desc=CS%20Undergrad%20@%20NMAMIT%20%C2%B7%20Data%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=68" width="100%" />
@@ -18,8 +12,8 @@ B.Tech Computer Science undergraduate at **NMAM Institute of Technology, Nitte**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-bangera344/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bangeraananya1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/an-an-ya2005)
 
 ---
@@ -73,12 +67,3 @@ B.Tech Computer Science undergraduate at **NMAM Institute of Technology, Nitte**
     </td>
   </tr>
 </table>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
